@@ -1,4 +1,4 @@
-## Stay Calm, Stay Sharp
+### Stay Calm, Stay Sharp
 
 <!---
 gobilly/gobilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
