@@ -1,7 +1,7 @@
 
 # Febry Billiyagi
 
-🧠 I'm currently learning Codeigniter & Jquery
+🧠 I'm currently learning Laravel
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://billiyagi.github.io/)
